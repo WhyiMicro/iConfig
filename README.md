@@ -16,7 +16,6 @@ Next, add the launch options:
 5. In here, there should be a section labeled **LAUNCH OPTIONS**.
 6. Paste the launch options in here.
 ![GIF](https://media4.giphy.com/media/v7VxXxN1mh7Sgv1b43/giphy.gif?cid=790b761100d8773eeec85ddac9f3bb299a48d45a90ea5515&rid=giphy.gif&ct=g)
-<img align="left" width="100" height="100" src="https://media4.giphy.com/media/v7VxXxN1mh7Sgv1b43/giphy.gif?cid=790b761100d8773eeec85ddac9f3bb299a48d45a90ea5515&rid=giphy.gif&ct=g">
 ### Customization
 You can also download the `overrides.rar`, which can be used to customize the config.
 - The `autoexec.cfg` runs after the config, so if you wish to add a command, do it in here
