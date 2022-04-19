@@ -1,6 +1,9 @@
 # iConfig
 A heavily modified version of [mastercomfig](https://mastercomfig.com/) which removes all modules and network changes.
 Newest realease can be found [here](https://github.com/tf2iMicro/iConfig/releases)
+- [x] Easy to install
+- [x] Boosts fps
+- [x] autoexec and class configs
 ## Installation
 Put the `iConfig.vpk` in `tf\custom`. This is the main config which will boost your fps.
 Next, add the launch options:
