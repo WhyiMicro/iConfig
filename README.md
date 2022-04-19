@@ -15,3 +15,7 @@ Next, add the launch options:
 4. Press **Properties...**
 5. In here, there should be a section labeled **LAUNCH OPTIONS**.
 6. Paste the launch options in here.
+### Customization
+You can also download the `overrides.rar`, which can be used to customize the config.
+- The `autoexec.cfg` runs after the config, so if you wish to add a command, do it in here
+- The class configs (`scout.cfg`, `soldier.cfg`, `spy.cfg`, `sniper.cfg` etc) will be executed each time you use the selected class
