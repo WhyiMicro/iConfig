@@ -1,6 +1,6 @@
 # iConfig
 A heavily modified version of [mastercomfig](https://mastercomfig.com/) which removes all modules and network changes.
-Newest realease can be found [here](https://github.com/tf2iMicro/iConfig/releases)
+Newest realease can be found [here](https://github.com/tf2iMicro/iConfig/releases).
 - [x] Easy to install
 - [x] Boosts fps
 - [x] autoexec and class configs
