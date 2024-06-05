@@ -1,3 +1,4 @@
+# !!! Pretty outdated, would just recommend to get newest version of mastercomfig...
 # iConfig
 A heavily modified version of [mastercomfig](https://mastercomfig.com/) which removes all modules and network changes.
 Newest realease can be found [here](https://github.com/tf2iMicro/iConfig/releases).
